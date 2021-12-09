@@ -1,0 +1,19 @@
+{
+    "name": "Luisinho",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "65prESH6zUxxJYSCY1WpQjjJgQpm2gDnu3kKXZ9K96zL",
+          "share": 100
+        }
+      ]
+    }
+  }
